@@ -148,3 +148,8 @@ FOR PREMIUM USERS ONLY
 </body>
 </html>
 
+
+<p align="left">
+    <a aria-label="SUBSCRIBE PREMIUM" href="2349125042727" target="_blank">
+      <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
