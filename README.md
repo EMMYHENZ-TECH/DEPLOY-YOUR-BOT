@@ -1,4 +1,27 @@
-## FOR PREMIUM USERS ONLY
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello Page</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: white;
+      color: red; /* Set text color to red */
+      font-size: 48px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+FOR PREMIUM USERS ONLY
+</body>
+</html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -100,4 +123,28 @@
 </body>
 </html>
 
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello Page</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: white;
+      color: red; /* Set text color to red */
+      font-size: 48px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
 ## Dm EMMY (t.me/EmmyHenz) to subscribe PREMIUM
+</body>
+</html>
+
