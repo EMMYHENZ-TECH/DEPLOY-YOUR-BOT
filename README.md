@@ -150,6 +150,6 @@ CLICK HERE to subscribe PREMIUM👇
 
 
 <p align="left">
-    <a aria-label="SUBSCRIBE PREMIUM" href="2349125042727" target="_blank">
+    <a aria-label="SUBSCRIBE PREMIUM" href="https://Wa.me//+2348126699854?text=Hello%20EMMYHENZ%20my%20name%20is%20______%20and%20I%20want%20to%20subscribe%20premium%20of%20hack%20zone%20app" target="_blank">
       <img alt="whatsapp" src="https://img.shields.io/badge/GET PREMIUM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
